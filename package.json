@@ -1,0 +1,16 @@
+{
+  "name": "botkit-witai",
+  "version": "1.0.0",
+  "description": "A sample node.js botkit bot using wit.ai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Mike Brevoort",
+  "license": "MIT",
+  "dependencies": {
+    "botkit": "0.0.4",
+    "node-wit": "^2.0.0"
+  }
+}
